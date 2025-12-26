@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.idea/
+.python-version
+unnecessary/db_demo2.py
+unnecessary/users.db
+unnecessary/users_practice.db
+.env
+# Virtual environments
+.venv

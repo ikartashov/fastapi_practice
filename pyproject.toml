@@ -1,0 +1,14 @@
+[project]
+name = "fastapi-practice"
+version = "0.1.0"
+description = "Практика FastApi, git и UV "
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.118.0",
+    "httpx>=0.28.1",
+    "psycopg2-binary>=2.9.11",
+    "pytest>=8.4.2",
+    "sqlalchemy>=2.0.44",
+    "uvicorn>=0.37.0",
+]
